@@ -1,0 +1,1 @@
+The codes include bin_matrix.R，ConsensusClustering.R，cormad.R， doSNF.R，fast_ICA.R，FCM.R，FUM_function.R，LRAcluster.R，main.R，NMF.R，pca.R，pearson.R，robust_scaling.R，RSC_thresholding.R，thresholding.R，yuzhishanchu.R.
